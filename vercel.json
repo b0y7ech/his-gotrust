@@ -1,5 +1,9 @@
 {
-  "$schema": "https://openapi.vercel.sh/vercel.json",
-  "framework": "nextjs",
-  "rootDirectory": "his-gotrust-frontend"
+  "version": 2,
+  "builds": [
+    {
+      "src": "his-gotrust-frontend/package.json",
+      "use": "@vercel/next"
+    }
+  ]
 }
