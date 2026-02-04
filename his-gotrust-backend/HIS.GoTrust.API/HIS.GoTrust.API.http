@@ -1,0 +1,6 @@
+@HIS.GoTrust.API_HostAddress = http://localhost:5101
+
+GET {{HIS.GoTrust.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

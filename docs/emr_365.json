@@ -1,0 +1,1008 @@
+{
+  "HoSoBenhAn": {
+    "ThongTinBenhNhan": {
+      "loaiba": "01/BV1",
+      "sovaovien": "24.05.06.046537",
+      "soba": "0191224.001201",
+      "soluutru": "19/KKB/09039",
+      "makhoa": "01",
+      "tenkhoa": "Khoa khám bệnh",
+      "thoigianvaovien": "31/12/2023 23:04:11.610",
+      "mabenhnhan": "BN.240101999999",
+      "buong": "",
+      "giuong": "",
+      "cccd_so": "",
+      "hochieu_so": "",
+      "hoten": "Trần Thị B",
+      "ngaysinh": "01/01/1999",
+      "tuoi": "31",
+      "gioitinh": "Nữ",
+      "nghenghiep": "Công nhân, thợ thủ công",
+      "nghenghiep_ma": "04",
+      "dantoc": "Kinh",
+      "dantoc_ma": "25",
+      "ngoaikieu": "VN",
+      "ngoaikieu_ma": "",
+      "tungaybhyt": "01/01/2019",
+      "denngaybhyt": "31/12/2019",
+      "mabhyt": "DN495752667xxxx",
+      "noidangkykcbbd": "BVĐK TỈNH XYZ",
+      "diachi": "Khóm 07, Thành Phố Bạc Liêu, Bạc Liêu",
+      "sonha": "Khóm 1234",
+      "thonpho": "Khóm 1234, Thành Phố Bạc Liêu, Bạc Liêu",
+      "xaphuong": "",
+      "quanhuyen": "Thành Phố Bạc Liêu",
+      "quanhuyen_ma": "2581",
+      "tinhthanh": "Bạc Liêu",
+      "tinhthanh_ma": "821",
+      "noilamviec": "",
+      "sodienthoai": "",
+      "nhommau": "",
+      "yeutorh": "",
+      "doituongbn_loai": "BHYT",
+      "hotennguoithan": "Chồng: Nguyễn Văn A",
+      "diachinguoithan": "",
+      "sodienthoainguoithan": "",
+      "lydotiepnhan": "Khám bệnh",
+      "noigioithieu_loai": "Tự đến",
+      "tiensubenhtatcuabanthan": [
+        {
+          "thongtin_ma": "0257888",
+          "thongtin_noidung": "Dị ứng",
+          "thongtin_giatri": "1",
+          "thongtin_ghichu": "2 năm"
+        },
+        {
+          "thongtin_ma": "958788",
+          "thongtin_noidung": "Ma túy",
+          "thongtin_giatri": "0",
+          "thongtin_ghichu": "0"
+        }
+      ],
+      "tiensubenhtatcuagiadinh": "",
+      "tiensusanphukhoa": {
+        "tuoibatdaukinh": "",
+        "tinhchatkinhnguyet": "",
+        "chukykinhnguyet": "28",
+        "songaythaykinh": "5",
+        "luongkinh": "Nhiều",
+        "kinhlancuoingay": "",
+        "daubungkinh": "có, trước",
+        "laychongnam": "20",
+        "hetkinhnam": "",
+        "benhphukhoadadieutri": ""
+      },
+      "tiensusankhoa": {
+        "PARA": "2002"
+      }
+    },
+    "ThongTinVaoVien": {
+      "sovaovien": "24.05.06.046537",
+      "sophieu": "PVV.05046537",
+      "phongkham": "PK Cấp Cứu",
+      "maphongkham": "PK Cấp Cứu",
+      "bacsikhambenh": "Võ Văn B",
+      "mabacsikhambenh": "VUKV",
+      "chandoancuanoigioithieu": "",
+      "chandoansobo": "Đau bụng không xác định và đau bụng khác",
+      "chandoanvaovien": "Đau bụng không xác định và đau bụng khác",
+      "khambenh_chandoanvaovienmaicd": "R10.4",
+      "chieucao": "130.00",
+      "dieutritaikhoa": "Khoa Ngoại tổng hợp",
+      "madieutritaikhoa": "K02",
+      "chuky_hoten": "Kinh Văn Vũ",
+      "denkhambenhluc": "31/12/2023 23:04:11.610",
+      "lydovaovien": "đau bụng",
+      "quatrinhbenhly": "đau bụng kèm nôn ói nên vào viện",
+      "mach": "100",
+      "nhietdo": "37.0",
+      "nhiptho": "20",
+      "huyetap_tamthu": "",
+      "huyetap_tamtruong": "",
+      "cannang": "40",
+      "khambenh_toanthan": "tỉnh táo, tiếp xúc tốt.",
+      "khambenh_caccoquan": {
+        "tuanhoan": {
+          "dauchung_ma": {
+            "VNCODE": "12587",
+            "SNOMED": "9987888"
+          },
+          "dauchung": "tieng tim bình thương",
+          "dauchung_ghichu": "nghe cả hai thì"
+        },
+        "hohap": {
+          "dauchung_ma": {
+            "VNCODE": "35587",
+            "SNOMED": "00987125"
+          },
+          "dauchung": "ran nổ 2 phổi",
+          "dauchung_ghichu": "nghe thì hít vào"
+        },
+        "tieuhoa": [
+          {
+            "dauchung_ma": {
+              "VNCODE": "76543",
+              "SNOMED": "999100125"
+            },
+            "dauchung": "đau thượng vị",
+            "dauchung_ghichu": "đau quặn"
+          },
+          {
+            "dauchung_ma": {
+              "VNCODE": "18575",
+              "SNOMED": "000100143"
+            },
+            "dauchung": "nôn ói",
+            "dauchung_ghichu": "số lượng nhiều"
+          }
+        ],
+        "thantietnieu": {
+          "dauchung_ma": {
+            "VNCODE": "000000",
+            "SNOMED": "00100000"
+          },
+          "dauchung": "bình thường",
+          "dauchung_ghichu": ""
+        },
+        "thankinh": {
+          "dauchung_ma": {
+            "VNCODE": "000000",
+            "SNOMED": "00100000"
+          },
+          "dauchung": "bình thường",
+          "dauchung_ghichu": ""
+        },
+        "coxuongkhop": {
+          "dauchung_ma": {
+            "VNCODE": "000000",
+            "SNOMED": "00100000"
+          },
+          "dauchung": "bình thường",
+          "dauchung_ghichu": ""
+        },
+        "taimuihong": {
+          "dauchung_ma": {
+            "VNCODE": "000000",
+            "SNOMED": "00100000"
+          },
+          "dauchung": "bình thường",
+          "dauchung_ghichu": ""
+        },
+        "ranghammat": {
+          "dauchung_ma": {
+            "VNCODE": "000000",
+            "SNOMED": "00100000"
+          },
+          "dauchung": "bình thường",
+          "dauchung_ghichu": ""
+        },
+        "mat": {
+          "matphai": {
+            "nhanapvaovien": "",
+            "thilucvaovien_cokinh": "",
+            "thilucvaovien_khongkinh": "",
+            "dauchung_ma": {
+              "VNCODE": "000000",
+              "SNOMED": "00100000"
+            },
+            "dauchung": "bình thường",
+            "dauchung_ghichu": ""
+          },
+          "mattrai": {
+            "nhanapvaovien": "",
+            "thilucvaovien_cokinh": "",
+            "thilucvaovien_khongkinh": "",
+            "dauchung_ma": {
+              "VNCODE": "000000",
+              "SNOMED": "00100000"
+            },
+            "dauchung": "bình thường",
+            "dauchung_ghichu": ""
+          }
+        },
+        "noitiet_dinhduong_benhlikhac": {
+          "dauchung_ma": {
+            "VNCODE": "000000",
+            "SNOMED": "00100000"
+          },
+          "dauchung": "bình thường",
+          "dauchung_ghichu": ""
+        },
+        "phukhoa": {
+          "khamngoai": {
+            "dausinhducthuphat": {
+              "dauchung_ma": {
+                "VNCODE": "000000",
+                "SNOMED": "00100000"
+              },
+              "dauchung": "bình thường",
+              "dauchung_ghichu": ""
+            },
+            "moilon": {
+              "dauchung_ma": {
+                "VNCODE": "000000",
+                "SNOMED": "00100000"
+              },
+              "dauchung": "bình thường",
+              "dauchung_ghichu": ""
+            },
+            "moibe": {
+              "dauchung_ma": {
+                "VNCODE": "000000",
+                "SNOMED": "00100000"
+              },
+              "dauchung": "bình thường",
+              "dauchung_ghichu": ""
+            },
+            "amvat": {
+              "dauchung_ma": {
+                "VNCODE": "000000",
+                "SNOMED": "00100000"
+              },
+              "dauchung": "bình thường",
+              "dauchung_ghichu": ""
+            },
+            "amho": {
+              "dauchung_ma": {
+                "VNCODE": "000000",
+                "SNOMED": "00100000"
+              },
+              "dauchung": "bình thường",
+              "dauchung_ghichu": ""
+            },
+            "mangtrinh": {
+              "dauchung_ma": {
+                "VNCODE": "000000",
+                "SNOMED": "00100000"
+              },
+              "dauchung": "bình thường",
+              "dauchung_ghichu": ""
+            },
+            "tangsinhmon": {
+              "dauchung_ma": {
+                "VNCODE": "000000",
+                "SNOMED": "00100000"
+              },
+              "dauchung": "bình thường",
+              "dauchung_ghichu": ""
+            }
+          },
+          "khamtrong": {
+            "amdao": {
+              "dauchung_ma": {
+                "VNCODE": "000000",
+                "SNOMED": "00100000"
+              },
+              "dauchung": "bình thường",
+              "dauchung_ghichu": ""
+            },
+            "cotucung": {
+              "dauchung_ma": {
+                "VNCODE": "000000",
+                "SNOMED": "00100000"
+              },
+              "dauchung": "bình thường",
+              "dauchung_ghichu": ""
+            },
+            "thantucung": {
+              "dauchung_ma": {
+                "VNCODE": "000000",
+                "SNOMED": "00100000"
+              },
+              "dauchung": "bình thường",
+              "dauchung_ghichu": ""
+            },
+            "phanphu": {
+              "dauchung_ma": {
+                "VNCODE": "000000",
+                "SNOMED": "00100000"
+              },
+              "dauchung": "bình thường",
+              "dauchung_ghichu": ""
+            },
+            "cactuicung": {
+              "dauchung_ma": {
+                "VNCODE": "000000",
+                "SNOMED": "00100000"
+              },
+              "dauchung": "bình thường",
+              "dauchung_ghichu": ""
+            }
+          }
+        },
+        "sankhoa": {
+          "khamngoai": {
+            "vmc": {
+              "vmc_lydo": "",
+              "vmc_ngay": "",
+              "vmc_taibenhvien": ""
+            },
+            "hinhdangtucung": "",
+            "kieuthe": "",
+            "chieucaotc": "",
+            "vongbung": "",
+            "concotc": "",
+            "timthai": "",
+            "vú": "",
+            "khungchau": "",
+            "amho": {
+              "dauchung_ma": {
+                "VNCODE": "000000",
+                "SNOMED": "00100000"
+              },
+              "dauchung": "bình thường",
+              "dauchung_ghichu": ""
+            },
+            "tangsinhmon": {
+              "dauchung_ma": {
+                "VNCODE": "000000",
+                "SNOMED": "00100000"
+              },
+              "dauchung": "bình thường",
+              "dauchung_ghichu": ""
+            }
+          },
+          "khamtrong": {
+            "chisoBishop": "",
+            "amdao": {
+              "dauchung_ma": {
+                "VNCODE": "000000",
+                "SNOMED": "00100000"
+              },
+              "dauchung": "bình thường",
+              "dauchung_ghichu": ""
+            },
+            "cotucung": {
+              "dauchung_ma": {
+                "VNCODE": "000000",
+                "SNOMED": "00100000"
+              },
+              "dauchung": "bình thường",
+              "dauchung_ghichu": ""
+            },
+            "phanphu": {
+              "dauchung_ma": {
+                "VNCODE": "000000",
+                "SNOMED": "00100000"
+              },
+              "dauchung": "bình thường",
+              "dauchung_ghichu": ""
+            },
+            "oivoluc": "",
+            "oivotunhien": "2",
+            "mausacoi": "",
+            "nuocoinhieuitmau": "",
+            "luongnuocoi": "nhiều",
+            "ngoithai": "",
+            "dolot": "2",
+            "duongkinhnhohave": ""
+          }
+        }
+      }
+    },
+    "ThongTinDieuTri": {
+      "bacsidieutri": "BS A",
+      "bacsidieutri_ma": "BSA",
+      "khoadieutri_ma": "KB",
+      "khoadieutri": "Khám bệnh",
+      "giuong_ma": "",
+      "giuong": "102",
+      "khoavaovien_ma": "CC",
+      "khoavaovien": "Cấp cứu",
+      "ngaynhapkhoa": "15/09/2019 15:20:11.610",
+      "songaydieutri": "2",
+      "ngayravien": "",
+      "tongsongaydieutri": "",
+      "chandoan": "",
+      "chandoan_ma": "",
+      "chandoanvaovien": "",
+      "chandoanvaovien_ma": "",
+      "chandoantuyenduoi": "",
+      "chandoantuyenduoi_ma": "",
+      "maicd": "",
+      "tenicd": "",
+      "maicd_khac": "",
+      "tenicd_khac": "",
+      "ghichu": "",
+      "taibien": "",
+      "tomtat": "",
+      "bienchung": "",
+      "tienluong": "",
+      "huongdieutri": "",
+      "danhsachchuyenkhoa": [
+        {
+          "khoa_ma": "CC",
+          "khoa": "Khoakhámbénh",
+          "maicd": "",
+          "tenicd": "",
+          "tungay": "19/09/2019 15:20:11.610",
+          "denngay": "20/09/2019 15:20:11.610"
+        },
+        {
+          "khoa_ma": "K39",
+          "khoa": "Khoakhámbénh",
+          "maicd": "",
+          "tenicd": "",
+          "tungay": "21/09/2019 15:20:11.610",
+          "denngay": "22/09/2019 15:20:11.610"
+        }
+      ],
+      "danhsachsinhhieu": [
+        {
+          "mach": "2",
+          "nhietdo": "2",
+          "huyetap_cao": "12O",
+          "huyetap_thap": "8O",
+          "nhiptho": "2",
+          "cannang": "2",
+          "chieucao": "",
+          "thoidiem": "18/09/2019 15:20:11.610"
+        },
+        {
+          "mach": "2",
+          "nhietdo": "2",
+          "huyetap_cao": "120",
+          "huyetap_thap": "80",
+          "nhiptho": "2",
+          "cannang": "2",
+          "chieucao": "",
+          "thoidiem": "19/09/2019 15:20:11.610"
+        }
+      ],
+      "tinhtrangravien": {
+        "ketquadieutri": "",
+        "loidanbacsi": "Uống thuốc",
+        "giaiphaubenh": {
+          "giaiphaubenh_ma": "",
+          "giaiphaubenh_mota": ""
+        },
+        "ngayravien": "",
+        "thoigiantuvong": "",
+        "thoidiemtuvong": "",
+        "lydotuvong": "",
+        "nguyennhantuvong": "",
+        "nguyennhantuvong_ma": "",
+        "khamnghiemtuthi": ""
+      }
+    },
+    "YLenhThuocVatTu": {
+      "sovaovien": "24.05.06.046537",
+      "danhsach": [
+        {
+          "sophieu": "PH.129685",
+          "bacsichidinh": "Kinh Văn Vũ",
+          "mabacsichidinh": "VUKV",
+          "chandoansobo": "Đau đầu; Rối loạn chức năng tiền đình; TD Đột quị, không xác định do xuất huyết hay nhồi máu",
+          "doituongbn": "Viện phí",
+          "danhsach": [
+            {
+              "machidinh": "CDT.789685",
+              "cachdung": "Tiêm tĩnh mạch",
+              "ngaykedonthuoc": "31/12/2023 22:04:11.610",
+              "donvitinh": "Lọ",
+              "nhom": "Thuoc",
+              "loaithuoc": "Ống lọ chích",
+              "mathuocvattu_bv": "MePT41",
+              "mathuocvattu_byt": "40.775",
+              "soluongthuocvattu": "1",
+              "sothutungaydungthuoc": "1",
+              "tenthuocvattu": "Methyl prednisolon (Solu-Medrol )(Solu-Medrol ), 125mg ,Lọ (Pharmacia Upjohn Co,USA)",
+              "ylenhthuocvattu_ghichu": ""
+            },
+            {
+              "machidinh": "CDT.789686",
+              "cachdung": "",
+              "ngaykedonthuoc": "31/12/2023 23:04:11.610",
+              "donvitinh": "Cái",
+              "nhom": "VTYT",
+              "loaithuoc": "Vật tư y tế tiêu hao",
+              "mathuocvattu_bv": "BoTV76",
+              "mathuocvattu_byt": "1108.52",
+              "soluongthuocvattu": "1",
+              "sothutungaydungthuoc": "1",
+              "tenthuocvattu": "Bơm tiêm nhựa 5cc ,Cái (Cửu Long,VN)",
+              "ylenhthuocvattu_ghichu": "Bơm tiêm (syringe) dùng một lần các loại, các cỡ"
+            }
+          ]
+        },
+        {
+          "sophieu": "PH.129686",
+          "bacsichidinh": "Kinh Văn Vũ",
+          "mabacsichidinh": "VUKV",
+          "chandoansobo": "Đau đầu; Rối loạn chức năng tiền đình; TD Đột quị, không xác định do xuất huyết hay nhồi máu",
+          "doituongbn": "Viện phí",
+          "danhsach": [
+            {
+              "machidinh": "CDT.789687",
+              "cachdung": "Tiêm tĩnh mạch",
+              "ngaykedonthuoc": "31/12/2023 22:04:11.610",
+              "donvitinh": "Lọ",
+              "nhom": "Thuoc",
+              "loaithuoc": "Ống lọ chích",
+              "mathuocvattu_bv": "MePT41",
+              "mathuocvattu_byt": "40.775",
+              "soluongthuocvattu": "1",
+              "sothutungaydungthuoc": "1",
+              "tenthuocvattu": "Methyl prednisolon (Solu-Medrol )(Solu-Medrol ), 125mg ,Lọ (Pharmacia Upjohn Co,USA)",
+              "ylenhthuocvattu_ghichu": ""
+            },
+            {
+              "machidinh": "CDT.789688",
+              "cachdung": "",
+              "ngaykedonthuoc": "31/12/2023 23:04:11.610",
+              "donvitinh": "Cái",
+              "nhom": "VTYT",
+              "loaithuoc": "Vật tư y tế tiêu hao",
+              "mathuocvattu_bv": "BoTV76",
+              "mathuocvattu_byt": "1108.52",
+              "soluongthuocvattu": "1",
+              "sothutungaydungthuoc": "1",
+              "tenthuocvattu": "Bơm tiêm nhựa 5cc ,Cái (Cửu Long,VN)",
+              "ylenhthuocvattu_ghichu": "Bơm tiêm (syringe) dùng một lần các loại, các cỡ"
+            }
+          ]
+        }
+      ]
+    },
+    "PhieuChiDinh": {
+      "sovaovien": "24.05.06.046537",
+      "danhsach": [
+        {
+          "sophieu": "20.XNHH.055186",
+          "bacsichidinh": "Kinh Văn Vũ",
+          "mabacsichidinh": "VUKV",
+          "chandoansobo": "Đau đầu; Rối loạn chức năng tiền đình; TD Đột quị, không xác định do xuất huyết hay nhồi máu",
+          "doituongbn": "Viện phí",
+          "danhsach": [
+            {
+              "machidinh": "CD.349101",
+              "ngaychidinh": "12/07/2003 23:04:11.610",
+              "benhnhanphaitra": "40,400.00",
+              "dongia": "40,400.00",
+              "loaichidinh": "XN Huyết Học",
+              "loaimachidinh": "3491",
+              "noithuchienchidinh": "Khoa khám bệnh",
+              "manoithuchienchidinh": "K01",
+              "soluong": "1",
+              "tenchidinh": "Tổng phân tích tế bào máu ngoại vi (bằng máy đếm tổng trở)",
+              "thanhtien": "40,400.00"
+            },
+            {
+              "machidinh": "CD.349102",
+              "ngaychidinh": "12/07/2003 22:04:11.610",
+              "benhnhanphaitra": "40,400.00",
+              "dongia": "40,400.00",
+              "loaichidinh": "XN Huyết Học",
+              "loaimachidinh": "3491",
+              "noithuchienchidinh": "Khoa khám bệnh",
+              "manoithuchienchidinh": "K01",
+              "soluong": "1",
+              "tenchidinh": "Tổng phân tích tế bào máu ngoại vi (bằng máy đếm tổng trở)",
+              "thanhtien": "40,400.00"
+            }
+          ],
+          "giogiaomau": "",
+          "giolaymau": "",
+          "giuong": "G99",
+          "khoadieutri": "Khoa Nội thần kinh",
+          "mucdochidinh": "Thường",
+          "nguoilaymau": "",
+          "noichidinh": "PK Cấp Cứu",
+          "phong": "HL D",
+          "tongcong": "80,800.00"
+        },
+        {
+          "sophieu": "20.XNHH.055186",
+          "bacsichidinh": "Kinh Văn Vũ 2",
+          "mabacsichidinh": "VUKV2",
+          "chandoansobo": "Đau đầu; Rối loạn chức năng tiền đình; TD Đột quị, không xác định do xuất huyết hay nhồi máu",
+          "doituongbn": "Viện phí",
+          "danhsach": [
+            {
+              "machidinh": "CD.349101",
+              "ngaychidinh": "12/07/2003 23:04:11.610",
+              "benhnhanphaitra": "40,400.00",
+              "dongia": "40,400.00",
+              "loaichidinh": "XN Huyết Học",
+              "loaimachidinh": "3491",
+              "noithuchienchidinh": "Khoa khám bệnh",
+              "manoithuchienchidinh": "K01",
+              "soluong": "1",
+              "tenchidinh": "Tổng phân tích tế bào máu ngoại vi (bằng máy đếm tổng trở)",
+              "thanhtien": "40,400.00"
+            },
+            {
+              "machidinh": "CD.349102",
+              "ngaychidinh": "12/07/2003 22:04:11.610",
+              "benhnhanphaitra": "40,400.00",
+              "dongia": "40,400.00",
+              "loaichidinh": "XN Huyết Học",
+              "loaimachidinh": "3491",
+              "noithuchienchidinh": "Khoa khám bệnh",
+              "manoithuchienchidinh": "K01",
+              "soluong": "1",
+              "tenchidinh": "Tổng phân tích tế bào máu ngoại vi (bằng máy đếm tổng trở)",
+              "thanhtien": "40,400.00"
+            }
+          ],
+          "giogiaomau": "",
+          "giolaymau": "",
+          "giuong": "G99",
+          "khoadieutri": "Khoa Nội thần kinh",
+          "mucdochidinh": "Thường",
+          "nguoilaymau": "",
+          "noichidinh": "PK Cấp Cứu",
+          "phong": "HL D",
+          "tongcong": "80,800.00"
+        }
+      ]
+    },
+    "KetQuaChanDoanHinhAnh": {
+      "sovaovien": "24.05.06.046537",
+      "danhsach": [
+        {
+          "sophieu": "20.XNHH.054448",
+          "machidinh": "CD.249101",
+          "ngayketqua": "31/12/2023 23:04:11.610",
+          "bacsichidinh": "Lương Văn Nghĩa",
+          "mabacsichidinh": "luongvn",
+          "bacsithuchien": "Hồ Văn Hảo",
+          "mabacsithuchien": "haohv",
+          "chandoan": "Viêm dạ dày-ruột và viêm đại tràng khác không rõ nguyên nhân",
+          "hinhanh": [
+            "http://abc.vn/ExamImageResult/66/1b/11475",
+            "http:// abc.vn /ExamImageResult/76/60/11476"
+          ],
+          "kqcls_denghi": "",
+          "kqcls_ketluan": "- Không thấy hơi tự do ổ bụng.\n\t\t\t\t- Không thấy mức hơi dịch bất thường",
+          "kqcls_linkpacs": "http://abc.vn/clinicalstudio/integration/viewer?m",
+          "kqcls_mota": "mô tả kết quả cận lâm sàng"
+        },
+        {
+          "sophieu": "20.XNHH.054449",
+          "machidinh": "CD.249102",
+          "ngayketqua": "31/12/2023 20:04:11.610",
+          "bacsichidinh": "Lương Văn Nghĩa",
+          "mabacsichidinh": "luongvn",
+          "bacsithuchien": "Hồ Văn Hảo",
+          "mabacsithuchien": "haohv",
+          "chandoan": "Viêm dạ dày-ruột và viêm đại tràng khác không rõ nguyên nhân",
+          "hinhanh": [
+            "http:// abc.vn/ExamImageResult/66/1b/11475",
+            "http:// abc.vn/ExamImageResult/76/60/11476"
+          ],
+          "kqcls_denghi": "",
+          "kqcls_ketluan": "- Không thấy hơi tự do ổ bụng.\n\t\t\t\t- Không thấy mức hơi dịch bất thường",
+          "kqcls_linkpacs": "http://abc.vn/clinicalstudio/integration/viewer?m",
+          "kqcls_mota": "mô tả kết quả cận lâm sàng"
+        }
+      ]
+    },
+    "KetQuaXetNghiem": {
+      "sovaovien": "24.05.06.046537",
+      "danhsach": [
+        {
+          "sophieu": "20.XQHH.054448",
+          "mabacsichidinh": "hieult",
+          "bacsichidinh": "Lê Thanh Hiếu",
+          "chandoan": "Viêm hạch bạch huyết mạc treo không đặc hiệu",
+          "doituongbn": "BHYT 1 (100%)",
+          "ghichu": "",
+          "giolaymau": "31/12/2023 12:04:11.610",
+          "khoa": "Khoa Cấp cứu",
+          "masobenhpham": "100720-4561",
+          "nguoithuchienxetnghiem": "Nguyễn Đăng Mạnh",
+          "manguoithuchienxetnghiem": "manhnd",
+          "noithuchienchidinh": "Khoa Xét nghiệm",
+          "danhsach": [
+            {
+              "machidinh": "CD.349101",
+              "machiso": "CS.865874",
+              "ngayketqua": "31/12/2023 23:04:11.610",
+              "donvi": "T/l",
+              "ketqua": "5.43",
+              "ketquabatthuong": "0",
+              "loaixetnghiem": "XN Huyết Học",
+              "nhom": "Tổng phân tích tế bào máu ngoại vi (bằng máy đếm tổng trở)",
+              "noithuchienchidinh": "Khoa Xét nghiệm",
+              "pkqxn_tenxetnghiem": "Hồng cầu (RBC)",
+              "trisothamchieu": "4 - 5.8"
+            },
+            {
+              "machidinh": "CD.349102",
+              "machiso_": "CS.865874",
+              "ngayketqua": "31/12/2023 23:04:11.610",
+              "donvi": "g/L",
+              "ketqua": "86",
+              "ketquabatthuong": "1",
+              "loaixetnghiem": "XN Huyết Học",
+              "nhom": "Tổng phân tích tế bào máu ngoại vi (bằng máy đếm tổng trở)",
+              "noithuchienchidinh": "Khoa Xét nghiệm",
+              "pkqxn_tenxetnghiem": "HGB(Hemoglobin)",
+              "trisothamchieu": "140 - 160"
+            }
+          ]
+        },
+        {
+          "sophieu": "20.XQHH.054449",
+          "mabacsichidinh": "hieunv",
+          "bacsichidinh": "Lê Thanh Hiếu",
+          "chandoan": "Viêm hạch bạch huyết mạc treo không đặc hiệu",
+          "doituongbn": "BHYT 1 (100%)",
+          "ghichu": "",
+          "giolaymau": "31/12/2023 12:04:11.610",
+          "khoa": "Khoa Cấp cứu",
+          "masobenhpham": "100720-4561",
+          "nguoithuchienxetnghiem": "Nguyễn Đăng Mạnh",
+          "manguoithuchienxetnghiem": "manhnd",
+          "noithuchienchidinh": "Khoa Xét nghiệm",
+          "danhsach": [
+            {
+              "machidinh": "CD.349111",
+              "machiso": "CS.865874",
+              "ngayketqua": "31/12/2023 23:04:11.610",
+              "donvi": "T/l",
+              "ketqua": "5.43",
+              "ketquabatthuong": "0",
+              "loaixetnghiem": "XN Huyết Học",
+              "nhom": "Tổng phân tích tế bào máu ngoại vi (bằng máy đếm tổng trở)",
+              "noithuchienchidinh": "Khoa Xét nghiệm",
+              "pkqxn_tenxetnghiem": "Hồng cầu (RBC)",
+              "trisothamchieu": "4 - 5.8"
+            },
+            {
+              "machidinh": "CD.349112",
+              "machiso_": "CS.865874",
+              "ngayketqua": "31/12/2023 23:04:11.610",
+              "donvi": "g/L",
+              "ketqua": "86",
+              "ketquabatthuong": "1",
+              "loaixetnghiem": "XN Huyết Học",
+              "nhom": "Tổng phân tích tế bào máu ngoại vi (bằng máy đếm tổng trở)",
+              "noithuchienchidinh": "Khoa Xét nghiệm",
+              "pkqxn_tenxetnghiem": "HGB(Hemoglobin)",
+              "trisothamchieu": "140 - 160"
+            }
+          ]
+        }
+      ]
+    },
+    "GiayChuyenVien": {
+      "sovaovien": "24.05.06.046537",
+      "sophieu": "PCV.05.06.046537",
+      "chandoanchuyenvien": "Tổn thương không đặc hiệu và khác của tủy sống cổ(S14.1)",
+      "chuyentuyen": "Chuyển người bệnh từ tuyến dưới lên tuyến trên liền kề",
+      "chuyentuyen_nguoiduadi": "Hồ Văn Hảo",
+      "chuyentuyen_phuongtien": "Xe cấp cứu",
+      "chuyentuyenbang": "",
+      "dauhieulamsang": "Bệnh nhân tỉnh táo. Da niêm mạc hồng.",
+      "huongdieutri": "Chuyển viện.",
+      "ketquaclsdalam": "CT-Scaner: Chưa phát hiện bất thường sọ não trên phim.",
+      "ketquadieutrituyentren": "",
+      "lydochuyentuyen": "Đủ điều kiện chuyển tuyến",
+      "ngaychuyentuyen": "11/10/2019",
+      "ngaylapgiaychuyenvien": "11/10/2019",
+      "nguoilapgiaychuyenvien": "Hồ Văn Hảo",
+      "manguoilapgiaychuyenvien": "haohv",
+      "noilapgiaychuyenvien": "KNgoaiTQ",
+      "thuocdadung": "Natriclorid 0.9 % 500mlx 1 chai\n\t\tMethylprednisolon 125 mg x 1 ống Tiêm TM",
+      "tinhtranglucchuyentuyen": "Bệnh nhân tỉnh táo. Da niêm mạc hồng."
+    },
+    "HoSoCapCuu": {
+      "sovaovien": "24.05.06.046537",
+      "bophanbithuong": "Tay",
+      "cannang": "52.00",
+      "cdkkbcapcuu_benhchinh": {
+        "maicd": "",
+        "tenicd": "",
+        "motabenh": ""
+      },
+      "cdnoigioithieu": "",
+      "cdrakhoa_benhchinh": {
+        "maicd": "S14.1",
+        "tenicd": "Tổn thương không đặc hiệu và khác của tủy sống cổ",
+        "motabenh": "Tổn thương không đặc hiệu và khác của tủy sống cổ"
+      },
+      "cdrakhoa_benhkemtheo": {
+        "maicd": "S06.0",
+        "tenicd": "Chấn động (Chấn động não)"
+      },
+      "chieucao": "",
+      "diadiemxayra": {
+        "diadiemxayra_ten": "Tại nhà",
+        "maxaphuong": "",
+        "quanhuyen": "",
+        "quanhuyen_ma": "",
+        "sonha": "",
+        "tinhthanh": "",
+        "tinhthanh_ma": "",
+        "xaphuong": ""
+      },
+      "dienbiensautntt": "",
+      "huyetap_tamthu": "",
+      "huyetap_tamtruong": "",
+      "ketquadieutri": "Không thay đổi",
+      "khambenh_cacbophan": "",
+      "khambenh_chuy": "",
+      "khambenh_daxuly": "",
+      "khambenh_toanthan": "",
+      "khambenh_tomtatketquacls": "",
+      "khoavao": "PKCapCuu",
+      "lydovaovien": "",
+      "mach": "",
+      "mucdotntt": "",
+      "ngaygiovaokhoa": "31/12/2023 23:04:11.610",
+      "nguyennhanchitiet": "Trượt té",
+      "nguyennhantainan": {
+        "maicd": "",
+        "tenicd": "",
+        "motabenh": "Trượt té"
+      },
+      "nhietdo": "",
+      "nhiptho": "",
+      "quatrinhbenhly": "",
+      "thoidiemkhambenh": "31/12/2023 13:04:11.610",
+      "thoidiemtainan": "31/12/2023 12:04:11.610",
+      "tiensubenhbanthan": "",
+      "tiensubenhgiadinh": "",
+      "xutrikhambenh": "",
+      "xutrisautntt": ""
+    },
+    "PhieuThuThuat": {
+      "sovaovien": "24.05.06.046537",
+      "danhsach": [
+        {
+          "sophieu": "PTT.24.05.06.123",
+          "phuongphapphauthuat": "phương pháp thủ thuật",
+          "trinhtuphauthuatthuthuat": "trình tự thủ thuật",
+          "phauthuatvien": "Hồ Văn Hảo",
+          "maphauthuatvien": "haohv",
+          "buong": "",
+          "ngaygiovaovien": "30/12/2023 23:04:11.610",
+          "khoa_ma": "",
+          "gioitinh": "",
+          "giuong": "",
+          "bac": "",
+          "cdsauphauthuat": {
+            "maicd": "",
+            "tenicd": "",
+            "motabenh": "Trượt té"
+          },
+          "ghichu": "",
+          "luocdophauthuat": "",
+          "ngaygiophauthuat": "30/12/2023 23:04:11.610",
+          "mabacsigaymehoisuc": "annv",
+          "bacsigaymehoisuc": "Nguyễn Văn An",
+          "tuoi": "",
+          "loaiphauthuat": "",
+          "khoa": "",
+          "phuongphapvocam": "",
+          "ngayrutchi": "",
+          "cdtruocphauthuat": {
+            "maicd": "",
+            "tenicd": "",
+            "motabenh": "Trượt té"
+          },
+          "ngaycatchi": "",
+          "danluu": ""
+        },
+        {
+          "sophieu": "PTT.24.05.06.124",
+          "phuongphapphauthuat": "phương pháp thủ thuật",
+          "trinhtuphauthuatthuthuat": "trình tự thủ thuật",
+          "phauthuatvien": "Hồ Văn Hảo",
+          "maphauthuatvien": "haohv",
+          "buong": "",
+          "ngaygiovaovien": "29/12/2023 23:04:11.610",
+          "khoa_ma": "",
+          "gioitinh": "",
+          "giuong": "",
+          "bac": "",
+          "cdsauphauthuat": {
+            "maicd": "",
+            "tenicd": "",
+            "motabenh": "Trượt té"
+          },
+          "ghichu": "",
+          "luocdophauthuat": "",
+          "ngaygiophauthuat": "30/12/2023 23:04:11.610",
+          "mabacsigaymehoisuc": "annv",
+          "bacsigaymehoisuc": "Nguyễn Văn An",
+          "tuoi": "",
+          "loaiphauthuat": "",
+          "khoa": "",
+          "phuongphapvocam": "",
+          "ngayrutchi": "",
+          "cdtruocphauthuat": {
+            "maicd": "",
+            "tenicd": "",
+            "motabenh": "Trượt té"
+          },
+          "ngaycatchi": "",
+          "danluu": ""
+        }
+      ]
+    },
+    "PhieuPhauThuat": {
+      "sovaovien": "24.05.06.046537",
+      "danhsach": [
+        {
+          "sophieu": [
+            "PPT.24.05.06.124",
+            ""
+          ],
+          "trinhtuphauthuatthuthuat": "",
+          "phauthuatvien": "",
+          "maphauthuatvien": "",
+          "phudungcu": "",
+          "buong": "",
+          "khoa": "",
+          "khoa_ma": "",
+          "ngaygiovaovien": "31/12/2023 23:04:11.610",
+          "bacsigaymehoisuc_phu1": "",
+          "mabacsigaymehoisuc_phu1": "",
+          "gioitinh": "",
+          "giuong": "",
+          "cdsauphauthuat": {
+            "tenicd": "",
+            "maicd": "",
+            "motabenh": "Trượt té"
+          },
+          "luocdophauthuat": "",
+          "ngaygiophauthuat": "31/12/2023 23:04:11.610",
+          "dvpt": "",
+          "bacsigaymehoisuc": "",
+          "mabacsigaymehoisuc": "",
+          "tuoi": "",
+          "loaiphauthuat": "",
+          "phuphauthuat": "",
+          "phuongphapvocam": "",
+          "cdtruocphauthuat": {
+            "tenicd": "",
+            "maicd": "",
+            "motabenh": "Trượt té"
+          },
+          "ddvongngoai": ""
+        },
+        {
+          "sophieu": [
+            "PPT.24.05.06.125",
+            ""
+          ],
+          "trinhtuphauthuatthuthuat": "",
+          "phauthuatvien": "",
+          "maphauthuatvien": "",
+          "phudungcu": "",
+          "buong": "",
+          "khoa": "",
+          "khoa_ma": "",
+          "ngaygiovaovien": "31/12/2023 23:04:11.610",
+          "bacsigaymehoisuc_phu1": "",
+          "mabacsigaymehoisuc_phu1": "",
+          "gioitinh": "",
+          "giuong": "",
+          "cdsauphauthuat": {
+            "tenicd": "",
+            "maicd": "",
+            "motabenh": "Trượt té"
+          },
+          "luocdophauthuat": "",
+          "ngaygiophauthuat": "31/12/2023 23:04:11.610",
+          "dvpt": "",
+          "bacsigaymehoisuc": "",
+          "mabacsigaymehoisuc": "",
+          "tuoi": "",
+          "loaiphauthuat": "",
+          "phuphauthuat": "",
+          "phuongphapvocam": "",
+          "cdtruocphauthuat": {
+            "tenicd": "",
+            "maicd": "",
+            "motabenh": "Trượt té"
+          },
+          "ddvongngoai": ""
+        }
+      ]
+    }
+  }
+}
