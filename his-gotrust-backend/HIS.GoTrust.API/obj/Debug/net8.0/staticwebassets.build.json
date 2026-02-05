@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dWBXuiXbNoQBCXVP/3IjjZUUUGl9LeEBK4T3VAuTvhE=",
+  "Source": "HIS.GoTrust.API",
+  "BasePath": "_content/HIS.GoTrust.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

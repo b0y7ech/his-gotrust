@@ -1,0 +1,16 @@
+D:\AntiGravity\HIS-GoTRUST\his-gotrust-backend\HIS.GoTrust.Application\bin\Debug\net8.0\HIS.GoTrust.Application.deps.json
+D:\AntiGravity\HIS-GoTRUST\his-gotrust-backend\HIS.GoTrust.Application\bin\Debug\net8.0\HIS.GoTrust.Application.dll
+D:\AntiGravity\HIS-GoTRUST\his-gotrust-backend\HIS.GoTrust.Application\bin\Debug\net8.0\HIS.GoTrust.Application.pdb
+D:\AntiGravity\HIS-GoTRUST\his-gotrust-backend\HIS.GoTrust.Application\bin\Debug\net8.0\HIS.GoTrust.Domain.dll
+D:\AntiGravity\HIS-GoTRUST\his-gotrust-backend\HIS.GoTrust.Application\bin\Debug\net8.0\HIS.GoTrust.Domain.pdb
+D:\AntiGravity\HIS-GoTRUST\his-gotrust-backend\HIS.GoTrust.Application\obj\Debug\net8.0\HIS.GoTrust.Application.csproj.AssemblyReference.cache
+D:\AntiGravity\HIS-GoTRUST\his-gotrust-backend\HIS.GoTrust.Application\obj\Debug\net8.0\HIS.GoTrust.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\AntiGravity\HIS-GoTRUST\his-gotrust-backend\HIS.GoTrust.Application\obj\Debug\net8.0\HIS.GoTrust.Application.AssemblyInfoInputs.cache
+D:\AntiGravity\HIS-GoTRUST\his-gotrust-backend\HIS.GoTrust.Application\obj\Debug\net8.0\HIS.GoTrust.Application.AssemblyInfo.cs
+D:\AntiGravity\HIS-GoTRUST\his-gotrust-backend\HIS.GoTrust.Application\obj\Debug\net8.0\HIS.GoTrust.Application.csproj.CoreCompileInputs.cache
+D:\AntiGravity\HIS-GoTRUST\his-gotrust-backend\HIS.GoTrust.Application\obj\Debug\net8.0\HIS.GoTrust.Application.sourcelink.json
+D:\AntiGravity\HIS-GoTRUST\his-gotrust-backend\HIS.GoTrust.Application\obj\Debug\net8.0\HIS.GoTr.06AA7CA6.Up2Date
+D:\AntiGravity\HIS-GoTRUST\his-gotrust-backend\HIS.GoTrust.Application\obj\Debug\net8.0\HIS.GoTrust.Application.dll
+D:\AntiGravity\HIS-GoTRUST\his-gotrust-backend\HIS.GoTrust.Application\obj\Debug\net8.0\refint\HIS.GoTrust.Application.dll
+D:\AntiGravity\HIS-GoTRUST\his-gotrust-backend\HIS.GoTrust.Application\obj\Debug\net8.0\HIS.GoTrust.Application.pdb
+D:\AntiGravity\HIS-GoTRUST\his-gotrust-backend\HIS.GoTrust.Application\obj\Debug\net8.0\ref\HIS.GoTrust.Application.dll
