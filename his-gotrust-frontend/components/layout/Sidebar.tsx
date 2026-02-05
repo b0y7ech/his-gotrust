@@ -9,7 +9,9 @@ import {
   ClipboardDocumentListIcon, 
   DocumentChartBarIcon, 
   Cog6ToothIcon,
-  PlusIcon
+  PlusIcon,
+  ShieldCheckIcon,
+  ArrowRightOnRectangleIcon
 } from '@heroicons/react/24/outline';
 
 const menuItems = [
@@ -18,6 +20,7 @@ const menuItems = [
   { id: 'benh-nhan', label: 'Danh sách bệnh nhân', icon: UserGroupIcon, href: '/benh-nhan' },
   { id: 'danh-sach-cho', label: 'Danh sách chờ', icon: ClipboardDocumentListIcon, href: '/danh-sach-cho' },
   { id: 'bao-cao', label: 'Báo cáo ca trực', icon: DocumentChartBarIcon, href: '/bao-cao' },
+  { id: 'admin', label: 'Admin Panel', icon: ShieldCheckIcon, href: '/admin' },
   { id: 'cau-hinh', label: 'Cấu hình', icon: Cog6ToothIcon, href: '/cau-hinh' },
 ];
 
@@ -74,14 +77,27 @@ export default function Sidebar() {
       {/* User Info */}
       <div className="p-4 border-t border-gray-700">
         <div className="flex items-center gap-3">
-          <div className="w-10 h-10 bg-gradient-to-br from-yellow-400 to-orange-500 rounded-full flex items-center justify-center">
-            <span className="text-white text-sm font-medium">NV</span>
+          <div className="w-10 h-10 bg-gradient-to-br from-cyan-500 to-blue-600 rounded-full flex items-center justify-center">
+            <span className="text-white text-sm font-bold">TB</span>
           </div>
-          <div>
-            <p className="text-white font-medium text-sm">Nguyễn Văn A</p>
-            <p className="text-gray-400 text-xs">Điều dưỡng trưởng</p>
+          <div className="flex-1">
+            <p className="text-white font-medium text-sm">Trần Ngọc Bách</p>
+            <p className="text-gray-400 text-xs">Giám đốc BV</p>
           </div>
         </div>
+        <button 
+          onClick={() => {
+            if (typeof window !== 'undefined') {
+              localStorage.removeItem('isLoggedIn');
+              localStorage.removeItem('user');
+              window.location.href = '/login';
+            }
+          }}
+          className="mt-3 w-full flex items-center justify-center gap-2 px-3 py-2 text-gray-400 hover:text-white hover:bg-gray-700/50 rounded-lg transition-colors text-sm"
+        >
+          <ArrowRightOnRectangleIcon className="w-4 h-4" />
+          <span>Đăng xuất</span>
+        </button>
       </div>
     </aside>
   );

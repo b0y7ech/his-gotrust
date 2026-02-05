@@ -21,16 +21,16 @@ import Link from 'next/link';
 
 // Mock data for patients
 const mockPatients = [
-  { id: 'BN001', mabn: '123456789', hoten: 'Trần Minh Tuấn', tuoi: 45, gioitinh: 'Nam', diachi: 'TP. Huế', sodienthoai: '0901234567', bhyt: 'DN4567890123456', trangthai: 'Đang khám', phongkham: 'Phòng khám Nội 01', ngaytiepdon: '05/02/2026 08:30' },
+  { id: 'BN001', mabn: '123456789', hoten: 'Trần Minh Tuấn', tuoi: 45, gioitinh: 'Nam', diachi: 'Quận 1, TP.HCM', sodienthoai: '0901234567', bhyt: 'DN4567890123456', trangthai: 'Đang khám', phongkham: 'Phòng khám Nội 01', ngaytiepdon: '05/02/2026 08:30' },
   { id: 'BN002', mabn: '123456790', hoten: 'Nguyễn Thị Hương', tuoi: 32, gioitinh: 'Nữ', diachi: 'TP. Đà Nẵng', sodienthoai: '0912345678', bhyt: 'DN4567890123457', trangthai: 'Chờ khám', phongkham: 'Phòng khám Sản', ngaytiepdon: '05/02/2026 08:45' },
   { id: 'BN003', mabn: '123456791', hoten: 'Lê Văn Hùng', tuoi: 58, gioitinh: 'Nam', diachi: 'Quảng Trị', sodienthoai: '0923456789', bhyt: 'DN4567890123458', trangthai: 'Hoàn tất', phongkham: 'Phòng khám Ngoại', ngaytiepdon: '05/02/2026 07:30' },
-  { id: 'BN004', mabn: '123456792', hoten: 'Phạm Thị Mai', tuoi: 28, gioitinh: 'Nữ', diachi: 'Thừa Thiên Huế', sodienthoai: '0934567890', bhyt: '', trangthai: 'Đang khám', phongkham: 'Phòng khám Nhi', ngaytiepdon: '05/02/2026 09:00' },
-  { id: 'BN005', mabn: '123456793', hoten: 'Võ Quốc Thắng', tuoi: 67, gioitinh: 'Nam', diachi: 'TP. Huế', sodienthoai: '0945678901', bhyt: 'DN4567890123460', trangthai: 'Cấp cứu', phongkham: 'Phòng Cấp cứu', ngaytiepdon: '05/02/2026 09:15' },
+  { id: 'BN004', mabn: '123456792', hoten: 'Phạm Thị Mai', tuoi: 28, gioitinh: 'Nữ', diachi: 'Quận 3, TP.HCM', sodienthoai: '0934567890', bhyt: '', trangthai: 'Đang khám', phongkham: 'Phòng khám Nhi', ngaytiepdon: '05/02/2026 09:00' },
+  { id: 'BN005', mabn: '123456793', hoten: 'Võ Quốc Thắng', tuoi: 67, gioitinh: 'Nam', diachi: 'Quận 2, TP.HCM', sodienthoai: '0945678901', bhyt: 'DN4567890123460', trangthai: 'Cấp cứu', phongkham: 'Phòng Cấp cứu', ngaytiepdon: '05/02/2026 09:15' },
   { id: 'BN006', mabn: '123456794', hoten: 'Đỗ Thị Lan', tuoi: 41, gioitinh: 'Nữ', diachi: 'Quảng Bình', sodienthoai: '0956789012', bhyt: 'DN4567890123461', trangthai: 'Chờ khám', phongkham: 'Phòng khám Nội 02', ngaytiepdon: '05/02/2026 09:30' },
   { id: 'BN007', mabn: '123456795', hoten: 'Hoàng Đức Nam', tuoi: 52, gioitinh: 'Nam', diachi: 'Quảng Nam', sodienthoai: '0967890123', bhyt: 'DN4567890123462', trangthai: 'Hoàn tất', phongkham: 'Phòng khám Tim mạch', ngaytiepdon: '05/02/2026 08:00' },
-  { id: 'BN008', mabn: '123456796', hoten: 'Bùi Thị Thu', tuoi: 35, gioitinh: 'Nữ', diachi: 'TP. Huế', sodienthoai: '0978901234', bhyt: '', trangthai: 'Đang khám', phongkham: 'Phòng khám Da liễu', ngaytiepdon: '05/02/2026 09:45' },
+  { id: 'BN008', mabn: '123456796', hoten: 'Bùi Thị Thu', tuoi: 35, gioitinh: 'Nữ', diachi: 'Quận 7, TP.HCM', sodienthoai: '0978901234', bhyt: '', trangthai: 'Đang khám', phongkham: 'Phòng khám Da liễu', ngaytiepdon: '05/02/2026 09:45' },
   { id: 'BN009', mabn: '123456797', hoten: 'Phan Văn Tài', tuoi: 73, gioitinh: 'Nam', diachi: 'Hà Tĩnh', sodienthoai: '0989012345', bhyt: 'DN4567890123464', trangthai: 'Chờ khám', phongkham: 'Phòng khám Nội 01', ngaytiepdon: '05/02/2026 10:00' },
-  { id: 'BN010', mabn: '123456798', hoten: 'Ngô Thị Nhung', tuoi: 29, gioitinh: 'Nữ', diachi: 'TP. Huế', sodienthoai: '0990123456', bhyt: 'DN4567890123465', trangthai: 'Hoàn tất', phongkham: 'Phòng khám Mắt', ngaytiepdon: '05/02/2026 07:45' },
+  { id: 'BN010', mabn: '123456798', hoten: 'Ngô Thị Nhung', tuoi: 29, gioitinh: 'Nữ', diachi: 'Quận 10, TP.HCM', sodienthoai: '0990123456', bhyt: 'DN4567890123465', trangthai: 'Hoàn tất', phongkham: 'Phòng khám Mắt', ngaytiepdon: '05/02/2026 07:45' },
   { id: 'BN011', mabn: '123456799', hoten: 'Đinh Văn Long', tuoi: 48, gioitinh: 'Nam', diachi: 'Nghệ An', sodienthoai: '0901234568', bhyt: 'DN4567890123466', trangthai: 'Đang khám', phongkham: 'Phòng khám Ngoại', ngaytiepdon: '05/02/2026 10:15' },
   { id: 'BN012', mabn: '123456800', hoten: 'Dương Thị Hà', tuoi: 55, gioitinh: 'Nữ', diachi: 'TP. Đà Nẵng', sodienthoai: '0912345679', bhyt: 'DN4567890123467', trangthai: 'Chờ khám', phongkham: 'Phòng khám Nội 02', ngaytiepdon: '05/02/2026 10:30' },
 ];

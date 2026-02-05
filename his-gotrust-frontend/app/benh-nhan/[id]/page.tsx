@@ -539,7 +539,7 @@ export default function PatientDetailPage() {
             <span className="text-gray-400">LIS Sync: 2 phút trước</span>
           </div>
           <div className="text-gray-400">
-            Phiên bản 3.4.2 - Bệnh viện Trung ương Huế
+            Phiên bản 3.4.2 - Phòng khám Victoria Healthcare
           </div>
         </div>
       </div>
@@ -590,8 +590,8 @@ function ToKhamModal({ isOpen, onClose, patientInfo }: { isOpen: boolean; onClos
           <div className="bg-white rounded-xl shadow-lg p-8 max-w-3xl mx-auto">
             {/* Hospital Header */}
             <div className="text-center mb-6 border-b pb-4">
-              <h1 className="text-xl font-bold text-gray-800">BỆNH VIỆN TRUNG ƯƠNG HUẾ</h1>
-              <p className="text-gray-600 text-sm">Số 16, Lê Lợi, TP. Huế - ĐT: 0234.3822325</p>
+              <h1 className="text-xl font-bold text-gray-800">PHÒNG KHÁM VICTORIA HEALTHCARE</h1>
+              <p className="text-gray-600 text-sm">Địa chỉ: Tầng 3, Tòa nhà Vincom Center, Đường Lê Thánh Tôn, TP.HCM - ĐT: 028.3822.3456</p>
               <h2 className="text-lg font-bold text-cyan-600 mt-4">TỜ KHÁM BỆNH</h2>
               <p className="text-gray-500 text-sm">Ngày khám: {currentDate}</p>
             </div>

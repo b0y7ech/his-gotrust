@@ -8,8 +8,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "HIS GoTrust - Bệnh viện Đa khoa Huế",
-  description: "Hệ thống quản lý bệnh viện thông minh",
+  title: "HIS GoTrust - Phòng khám Victoria Healthcare",
+  description: "Hệ thống quản lý phòng khám thông minh",
 };
 
 export default function RootLayout({
